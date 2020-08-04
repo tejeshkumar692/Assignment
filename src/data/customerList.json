@@ -1,0 +1,49 @@
+{
+    "customer_list": [
+        {
+            "id": 0,
+            "name": "John",
+            "dollar_spent": "140"
+        },
+        {
+            "id": 1,
+            "name": "Sam",
+            "dollar_spent": "130"
+        },
+        {
+            "id": 3,
+            "name": "Brad",
+            "dollar_spent": "110"
+        },
+        {
+            "id": 4,
+            "name": "Pitt",
+            "dollar_spent": "125"
+        },
+        {
+            "id": 5,
+            "name": "Shaina",
+            "dollar_spent": "135"
+        },
+        {
+            "id": 6,
+            "name": "Jake",
+            "dollar_spent": "120"
+        },
+        {
+            "id": 7,
+            "name": "Natiel",
+            "dollar_spent": "80"
+        },
+        {
+            "id": 8,
+            "name": "Marco",
+            "dollar_spent": "40"
+        },
+        {
+            "id": 9,
+            "name": "Chris",
+            "dollar_spent": "90"
+        }
+    ]
+}
